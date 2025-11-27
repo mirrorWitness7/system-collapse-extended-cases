@@ -139,4 +139,27 @@ The result is not total system collapse, but:
 
 ---
 
+# 7. Historical Residue Activation (Fictional)
+
+This friction event is amplified by a phenomenon known as **Historical Residue**:  
+the assumption that the Institution is slow or incompetent based on its past performance, even when it is currently operating correctly.
+
+In this fictional scenario:
+- Years of previously slow or opaque behavior created a public belief that “the Institution never responds on time.”
+- Volunteers evolved to fill these historical gaps, building strong social legitimacy.
+- When the new equipment issue appeared, volunteers activated instantly out of habit.
+- The public interpreted the Institution’s protocol-bound process as “the same old failure,” even though the procurement was progressing correctly.
+- This created a mismatch between **perception (legacy)** and **reality (current performance).**
+
+This Historical Residue played a major role in:
+- accelerating volunteer intervention,
+- increasing public urgency,
+- intensifying the procurement collision,
+- and amplifying the narrative turbulence.
+
+The Institution was not slow in this fictional case.  
+It was burdened by its historical image.
+
+---
+
 This case is fully fictional and exists only as a pattern example for the Rogue Savior / Bypass archetype and related failure modes.
