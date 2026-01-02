@@ -19,6 +19,11 @@ This framework is designed to:
 
 The emphasis is on *structure over story*.
 
+🔧 *Clarification added below*
+
+This framework is intentionally **domain-agnostic**.  
+While many examples apply to technology and AI-enabled systems, the taxonomy is designed to generalize across industries where incentives, scale, and governance interact.
+
 ---
 
 ## Repository Structure
@@ -48,6 +53,8 @@ Reusable tooling for applying the framework.
 ### `cases/`
 Anonymized and fictional case studies demonstrating how the taxonomy applies in practice.
 
+Cases span multiple domains, including publishing, platforms, public-sector systems, automation-heavy organizations, and AI-enabled products.
+
 - `case_factory_boutique_publisher.md`  
   *An anonymized publisher case illustrating scale–strategy mismatch and metrics cannibalization.*
 
@@ -62,6 +69,9 @@ Anonymized and fictional case studies demonstrating how the taxonomy applies in 
 
 - `case_proxy_moral_escalation_procedural_system.md`  
   *An anonymized case illustrating proxy advocacy, scope inflation, and asymmetric risk transfer in procedural systems.*
+
+- `case_margin_inversion_wrapper_platform.md`  
+  *A fictionalized platform case illustrating margin erosion caused by usage-coupled cost structures and misclassified scalability.*
 
 ---
 
